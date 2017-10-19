@@ -1,7 +1,7 @@
 ---
 
-galaxy_name: franklinkim.docker
-github_user: weareinteractive
+galaxy_name: magnida.docker
+github_user: magnida
 github_name: ansible-docker
 badges: |
   [![Build Status](https://img.shields.io/travis/weareinteractive/ansible-docker.svg)](https://travis-ci.org/weareinteractive/ansible-docker)
